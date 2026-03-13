@@ -1,3 +1,5 @@
-# DIP_Homework
-This is my DIP_Homework_1
-<img width="1277" height="918" alt="842D72CD9D720A429557C1A7F101BCA4" src="https://github.com/user-attachments/assets/0412cbc7-a767-47c5-9df1-c310ebaec7e8" />
+# DIP_Homework_1
+1. Basic Image Geometric Transformation (Scale/Rotation/Translation).
+<img width="1735" height="895" alt="image" src="https://github.com/user-attachments/assets/4c6e9f50-817d-49d3-add1-bd410080b2f7" />
+2. Point Based Image Deformation.
+<img width="1729" height="900" alt="image" src="https://github.com/user-attachments/assets/003d3240-f8f4-4c34-84fb-e26f0944afb6" />
