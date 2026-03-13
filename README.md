@@ -6,12 +6,17 @@ This project implements two interactive image transformation tools as part of a 
 - **Point‑Guided Deformation**: Place corresponding points on an image to warp it interactively.
 
 ## Running the Code
-
 ### 1. Basic Transformation
 Run the following command to launch the interface for scaling, rotation, translation, and flip:
 ```bash
 python run_global_transform.py
-### 2. Basic Transformation
+```
+### 2.Point‑Guided Transformation
+Run the following command to launch the point‑based image deformation interface:
+```bash
+python run_point_transform.py
+```
+## Result
 1. Basic Image Geometric Transformation (Scale/Rotation/Translation).
 <img width="1735" height="895" alt="image" src="https://github.com/user-attachments/assets/4c6e9f50-817d-49d3-add1-bd410080b2f7" />
 2. Point Based Image Deformation.
